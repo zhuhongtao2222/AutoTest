@@ -1,0 +1,14 @@
+[
+  {
+    "description": "这是我们的第一个mock例子",
+    "request":{
+      "uri": "/demo"
+    },
+    "response": {
+      "text": "加油打工仔~~~",
+      "headers": {
+        "Content-Type": "text/html;charset=gbk"
+      }
+    }
+  }
+]
